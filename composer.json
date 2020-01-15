@@ -1,0 +1,16 @@
+{
+  "name": "tomas-blaha/barion-web-php",
+  "type": "library",
+  "description": "Barion PHP SDK",
+  "keywords": ["payment","gateway","barion","composer"],
+  "homepage": "https://github.com/TomasBlaha/barion-web-php",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tomáš Bláha",
+      "email": "tomas.blaha@outlook.com",
+      "homepage": "https://www.linkedin.com/in/tomas-blaha/",
+      "role": "Developer"
+    }
+  ]
+}
