@@ -1,1 +1,1 @@
-﻿# Fork o BarionPHP to be able use via composer
+﻿# Fork of BarionPHP to be able to use via composer
